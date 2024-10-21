@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ctao456
-- 👀 I’m interested in IDP, ITEX, IPEX, ITREX, INC, IES, IDM
-- 🌱 I’m currently learning GENAI model optimization
+- 👋 Hi, I’m Chun @ctao456.
+- 👀 I’m interested in OPEA, Intel® Gaudi® AI Accelerators, Intel® Xeon® Scalable Processors, Intel Gaudi Software Suite
+- 🌱 I’m currently learning GENAI model optimization, and efficient deployment via Docker, Kubernetes, Ray
 - 💞️ I’m looking to collaborate on end-to-end GENAI applications (AI Avatar Chatbot, AI Agent related projects), LLM optimizations, and PyTorch benchmarking and performance analysis
 - 📫 How to reach me chun.tao@intel.com, 4044353462
 - 😄 Pronouns: he/him/his
